@@ -1,3 +1,3 @@
-Hi. I'm a science student learning python. I like software engineering, physics, and business. 
+Hi. I'm a computer engineering student. I like software engineering, low level, and hardware. 
 
 
