@@ -1,3 +1,7 @@
-Hi. I'm a computer engineering student. I like software engineering, low level, and hardware. 
+Hi. I'm a STEM student. I like software engineering, operating systems, and electronics. 
+Current Project Focus:
+- Physics simulation (Fiber Optics)
+- Interlock Systems
+
 
 
