@@ -7,7 +7,7 @@ Currently looking for these jobs
 Solutions Architect/Sales Engineer/Technology Consultant/Technology Account Executive
 
 Other Projects:
-- Python input stock historical analysis using matplotlib and pandas
+- Python input stock historical analysis using matplotlib and pandas (dated)
 
 
 
