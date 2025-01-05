@@ -6,5 +6,8 @@ Is this what you're looking for?
 Currently looking for these jobs
 Solutions Architect/Sales Engineer/Technology Consultant/Technology Account Executive
 
+Other Projects:
+- Python input stock historical analysis using matplotlib and pandas
+
 
 
